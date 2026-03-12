@@ -1,29 +1,25 @@
 class Solution {
 public:
-
     bool isfound(int n,vector<string>&board,int row,int col){
         for(int i=0;i<n;i++){
             if(board[i][col]=='Q'){
                 return false;
             }
-
         }
         for(int i=row-1,j=col-1;i>=0&&j>=0;i--,j--){
             if(board[i][j]=='Q'){
                 return false;
             }
         }
-        for(int i=row-1,j=col+1;i=>0&&j<n;i--,j++){
+        for(int i=row-1,j=col+1;i>=0&&j<n;i--,j++){
             if(board[i][j]=='Q'){
                 return false;
             }
         }
         return true;
-
     }
-
     void backtracking(int n,vector<vector<string>>&result,vector<string>&board,int row){
-        if(n==row){
+        if(row==n){
             result.push_back(board);
             return;
         }
