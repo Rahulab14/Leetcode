@@ -150,3 +150,35 @@ Every star is a little motivation to keep solving! ❤️
 <p align="center">
   <b>Keep Coding. Keep Learning. Keep Growing. 🚀</b>
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+<!---LeetCode Topics End-->
