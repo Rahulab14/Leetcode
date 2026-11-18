@@ -165,6 +165,7 @@ Every star is a little motivation to keep solving! ❤️
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Rahulab14/Leetcode/tree/main/0139-word-break/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rahulab14/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
